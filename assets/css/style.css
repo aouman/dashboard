@@ -1,0 +1,116 @@
+.main{
+    padding: 15px;
+    background-color: #4d90cc;
+}
+.main .container-fluid{
+    background-color: #fff;
+    border-radius: 15px;
+}
+.logo{
+    text-align: center;
+}
+.list-group-item{
+    border: none!important;
+    font-weight: bold;
+    opacity: .5;
+}
+.active_1{
+    border-right: 5px solid blue!important;
+    border-radius: 0!important;
+    background-color: #4d90cc17!important;
+    color: blue!important;
+    opacity: 1;
+}
+.list-group a{
+    color: #3a3a3a!important;
+}
+.list-group a:hover{
+   text-decoration: none;
+    background-color: #4d90cc17!important;
+}
+.list-group-item svg{
+    margin-right: 5px;
+}
+
+.sect-body{
+    background-color: #ececf9;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.seac-section{
+    display: flex;
+}
+.input-group-prepend{
+    width: 25%;
+}
+.input-group-prepend svg{
+    margin: auto;
+}
+
+.btn-outline-success {
+    color: #000!important;
+    border-color: #fff!important;
+}
+.btn-outline-success:hover {
+   background-color: #fff!important;
+}
+
+.btn-outline-success .form-inline .input-group{
+    width: 300px;
+
+}
+.po-co-i, .po-co{
+    padding: 15px;
+}
+.icone-lesson .a1{
+    border: 2px solid #fafbfd;
+    border-radius: 15px;
+    height: 135px;
+}
+.icone-lesson .a2{
+border: 2px solid #fafbfd;
+    border-radius: 15px;
+    height: 135px;
+}
+.icone-lesson .a3{
+border: 2px solid #fafbfd;
+    border-radius: 15px;
+    height: 135px;
+}
+.icone-lesson .col-md-4 span{
+    padding: 5px 10px;
+    background: #4d90ccbf;
+    border-radius: 8px;
+    color: #fff;
+    position: relative;
+    top: 15px;
+    left: 5px;
+    font-weight: 600;
+}
+
+
+.po-co-i .icone-lesson{
+  background-color: #fafbfd;
+    border-radius: 15px;
+    padding: 15px;
+    height: 165px;
+}
+
+.badge {
+    font-weight: 400!important;
+    line-height: .1!important;
+    text-align: left!important;
+}
+/*.coming-lesson .a14, .a24, .a34{
+    border: 2px solid;
+    border-radius: 15px;
+    display: flex;
+}
+
+.col-md-4 .icon-coming{
+    border-radius: 15px;
+    border: 1px solid;
+    padding: 15px;
+    height: 85px;
+}*/
